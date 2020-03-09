@@ -1,0 +1,29 @@
+.background {
+  background-color: beige;
+}
+
+h1 {
+  font-style: italic;
+}
+
+.summary_image {
+  float: left;
+  margin: 0 .75em .5em 0;
+}
+
+.box {
+    padding: 5em;
+    color: #fff;
+    background: skyblue;
+    display: inline-block;
+}
+
+td {
+  padding: .25em;
+}
+
+@media (max-width: 766px) {
+  .navbar-dark.bg-dark{
+     background-color: red !important;
+   }
+ }
