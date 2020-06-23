@@ -2,4 +2,4 @@
 
 A full HTML website using CSS and Bootstrap is used to create a site that features all of the results obtained in the python-api-challenge repository. 
 
-LINK: https://ozzmosis123.github.io/Web-Design-Challenge/
+LINK: ozzmosis123.github.io/Web-Design-Challenge/
